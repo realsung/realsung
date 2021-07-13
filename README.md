@@ -3,11 +3,9 @@
 
 **I'm playing CTF as member of a [Defenit](https://defenit.kr)**
 
-**I'm currently a trainee at [KITRI BoB 9th](https://www.kitribob.kr) Vulnerability Analysis Track**
-
 ## Educated
 * [Seoul Women’s University School of Talented 6th Best Student](http://security.swu.ac.kr/giftedu)
-
+* [KITRI BoB 9th](https://www.kitribob.kr) Vulnerability Analysis Track**
 ### Contact
 - ✨ Email : sungjun0208@gmail.com
 
