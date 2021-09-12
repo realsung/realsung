@@ -1,11 +1,8 @@
 # Hi! 👋
-**Hello, my name is SungJun Park (a.k.a realsung)**
 
-**I'm playing CTF as member of a [Defenit](https://defenit.kr)**
+### My Profile
+- ✨ Web : ![http://blog.sung.pw/about](http://blog.sung.pw/about)
 
-## Educated
-* [Seoul Women’s University School of Talented 6th Best Student](http://security.swu.ac.kr/giftedu)
-* [KITRI BoB 9th](https://www.kitribob.kr) Vulnerability Analysis Track
 ### Contact
 - ✨ Email : sungjun0208@gmail.com
 
