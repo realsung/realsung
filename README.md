@@ -1,7 +1,7 @@
 # Hi! 👋
 
 ### My Profile
-- ✨ Web : ![http://blog.sung.pw/about](http://blog.sung.pw/about)
+- ✨ Web : [http://blog.sung.pw/about](http://blog.sung.pw/about)
 
 ### Contact
 - ✨ Email : sungjun0208@gmail.com
