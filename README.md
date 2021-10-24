@@ -1,10 +1,10 @@
-# Hi! 👋
+# Hi!
 
 ### My Profile
-- ✨ Web : [http://blog.sung.pw/about](http://blog.sung.pw/about)
+- ⚡ Web : [http://blog.sung.pw/about](http://blog.sung.pw/about)
 
 ### Contact
-- ✨ Email : sungjun0208@gmail.com
+- ⚡ Email : sungjun0208@gmail.com
 
 <!--
 **realsung/realsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
