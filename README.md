@@ -1,5 +1,7 @@
 # Hi!
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=realsung&layout=compact&hide=html&langs_count=10)
+
 ### My Profile
 - ⚡ Web : [http://blog.sung.pw/about](http://blog.sung.pw/about)
 
