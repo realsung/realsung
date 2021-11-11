@@ -6,6 +6,8 @@
 ### Contact
 - ⚡ Email : sungjun0208@gmail.com
 
+### ETC
+- 😄 I'm coding slave of [ugonfor](https://github.com/ugonfor)
 <!--
 **realsung/realsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
