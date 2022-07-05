@@ -1,6 +1,5 @@
-# Hi!
+# Profile
 
-### My Profile
 [http://blog.realsung.kr/about](http://blog.realsung.kr/about)
 
 <div align=center>
