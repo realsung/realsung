@@ -1,7 +1,7 @@
 # Hi!
 
 ### My Profile
-- ⚡ Web : [http://blog.realsung.kr/about](http://blog.realsung.kr/about)
+[http://blog.realsung.kr/about](http://blog.realsung.kr/about)
 
 ### ETC
 - 😄 I'm coding slave of [ugonfor](https://github.com/ugonfor)
