@@ -3,9 +3,6 @@
 ### My Profile
 [http://blog.realsung.kr/about](http://blog.realsung.kr/about)
 
-### ETC
-- 😄 I'm coding slave of [ugonfor](https://github.com/ugonfor)
-
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/) 
