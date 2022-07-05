@@ -1,8 +1,9 @@
 # Profile
 
-[http://blog.realsung.kr/about](http://blog.realsung.kr/about)
 
 <div align=center>
+
+[http://blog.realsung.kr/about](http://blog.realsung.kr/about)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://realsung.github.io/)](https://realsung.github.io/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/reallsung)](https://www.facebook.com/reallsung) 
