@@ -5,7 +5,6 @@
 
 [https://realsung.kr](https://realsung.kr)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sungjun0208@gmail.com)](mailto:sungjun0208@gmail.com)
 </div>
 
 <div align=center>
