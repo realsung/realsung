@@ -1,7 +1,7 @@
 # Profile
 
 ## Interest
-- Exploit, Web3, DeFi, Hyperliquid Echosystem
+- Exploit, BlockChain, Web3 Security, DeFi, Hyperliquid Echosystem
 
 ## Contact
 - sungjun0208[@]gmail.com
