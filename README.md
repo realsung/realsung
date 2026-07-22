@@ -22,21 +22,33 @@
 * **Security Researcher, STEALIEN Research Project Team** — Jan. 2023–Feb. 2025
 
 ## Highlights
+2026
+* **5th**, Hacktheon International University Student Cyber Security Competition, Team sayless($2,500) 
+* **Winner**, TyphoonPWN — LG webOS Unauthenticated RCE($20,000)
+* **4th**, Pwn2Own Automotive Tokyo, Team PetoWorks($62,500)
 
-* **5th**, Hacktheon International University Student Cyber Security Competition, Team sayless($2,500) - 2026
-* **Winner**, TyphoonPWN — LG webOS Unauthenticated RCE($20,000) — 2026
-* **4th**, Pwn2Own Automotive Tokyo, Team PetoWorks($62,500) — 2026
-* **Winner**, Pwn2Own Ireland, Team PetoWorks($10,000) — 2025
-* **1st**, AI Cyber Defense Contest University Division, Team Pwngrad($8,000) — 2025
-* **7th**, Hacktheon International University Student Cyber Security Competition, Team 박기태♥박성준♥박창완♥안건희($2,500) - 2025
-* **10th**, DEF CON 33 CTF, Team Cold Fusion — 2025
-* **9th**, DEF CON 32 CTF, Team Cold Fusion — 2024
-* **Pwned**, Pwn2Own Toronto, Team STEALIEN($15,000) — 2023
-* **2nd**, CODEGATE University Division, Team SSU($2,000) — 2022
-* **2nd**, The 5th KO-WORLD Hacking Competition in Dubai($8,000) - 2022
-* **1st**, Hacktheon University Student Cyber Security Competition, Team ASC($3,500) — 2022
-* **3rd**, Financial Security Threat Analysis Competition, Team KMP($400) - 2021
-* **2nd**, WhiteHat Contest Cyber Operations Competition, Team Exploitphile($4,000) - 2020
+2025
+* **Winner**, Pwn2Own Ireland, Team PetoWorks($10,000)
+* **1st**, AI Cyber Defense Contest University Division, Team Pwngrad($8,000)
+* **7th**, Hacktheon International University Student Cyber Security Competition, Team 박기태♥박성준♥박창완♥안건희($2,500)
+* **10th**, DEF CON 33 CTF, Team Cold Fusion
+
+2024
+* **9th**, DEF CON 32 CTF, Team Cold Fusion
+
+2023
+* **Pwned**, Pwn2Own Toronto, Team STEALIEN($15,000)
+
+2022
+* **2nd**, CODEGATE University Division, Team SSU($2,000)
+* **2nd**, The 5th KO-WORLD Hacking Competition in Dubai($8,000)
+* **1st**, Hacktheon University Student Cyber Security Competition, Team ASC($3,500)
+
+2021
+* **3rd**, Financial Security Threat Analysis Competition, Team KMP($400)
+
+2020
+* **2nd**, WhiteHat Contest Cyber Operations Competition, Team Exploitphile($4,000)
 
 ## Publication
 
