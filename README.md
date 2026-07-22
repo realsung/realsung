@@ -61,9 +61,3 @@
 * **Exploiting the Unexpected: A Pwn2Own-Level Break of a Printer** — DEF CON Singapore, Apr. 2026
 * **Pwn2Own, from Preparation to the Scene** — POC Security Hacking Camp, Feb. 2026
 * **Surviving Day to Day on DeFi Bug Bounty** — POC Security Hacking Camp, Aug. 2025
-
-## Contact
-- sungjun0208[@]gmail.com
-
-## More
-- [https://realsung.kr](https://realsung.kr)
