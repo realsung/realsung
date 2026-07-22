@@ -1,7 +1,7 @@
 <h1 align="center">SungJun Park</h1>
 
 <p align="center">
-  <a href="https://realsung.kr">Website</a> ·
+  <a href="https://blog.realsung.kr/CV.pdf">CV</a> ·
   <a href="https://github.com/realsung">GitHub</a> ·
   <a href="https://www.linkedin.com/in/realsungs">LinkedIn</a> ·
   <a href="mailto:sungjun0208@gmail.com">Email</a>
