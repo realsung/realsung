@@ -28,9 +28,9 @@
 * **4th**, Pwn2Own Automotive Tokyo, Team PetoWorks($62,500) — 2026
 * **Winner**, Pwn2Own Ireland, Team PetoWorks($10,000) — 2025
 * **1st**, AI Cyber Defense Contest University Division, Team Pwngrad($8,000) — 2025
-* **7th**, Hacktheon International University Student Cyber Security Competition Final, Team 박기태♥박성준♥박창완♥안건희($2,500) - 2025
-* **10th**, DEF CON 33 CTF Final, Team Cold Fusion — 2025
-* **9th**, DEF CON 32 CTF Final, Team Cold Fusion — 2024
+* **7th**, Hacktheon International University Student Cyber Security Competition, Team 박기태♥박성준♥박창완♥안건희($2,500) - 2025
+* **10th**, DEF CON 33 CTF, Team Cold Fusion — 2025
+* **9th**, DEF CON 32 CTF, Team Cold Fusion — 2024
 * **Pwned**, Pwn2Own Toronto, Team STEALIEN($15,000) — 2023
 * **2nd**, CODEGATE University Division, Team SSU($2,000) — 2022
 * **2nd**, The 5th KO-WORLD Hacking Competition in Dubai($8,000) - 2022
