@@ -37,6 +37,7 @@
 * **9th**, DEF CON 32 CTF, Team Cold Fusion
 
 2023
+* **Scholarships**, Received scholarship for Presidential Science Scholarship Of Korea Student Aid Foundation.(2023, $20,000)
 * **Pwned**, Pwn2Own Toronto, Team STEALIEN($15,000)
 
 2022
