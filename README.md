@@ -11,8 +11,8 @@
 
 ## Education
 
-* **M.S., Graduate School of Computing(Information Security), KAIST** — Sep. 2026-Present
-* **B.S., Software Engineering, Soongsil University** — Mar. 2021–Aug. 2026
+* **M.S., Graduate School of Computing - Information Security, KAIST** — Sep. 2026-Present
+* **B.S., Software Engineering, Soongsil University(Advisor Haehyun Cho, Hyojin Cho)** — Mar. 2021–Aug. 2026
 * **KITRI Best of the Best 9th, Vulnerability Analysis Track** — Jul. 2020–Mar. 2021
 * **Information Security, Sunrin Internet High School** — Mar. 2018–Feb. 2021
 
