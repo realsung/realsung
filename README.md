@@ -54,8 +54,7 @@
 ## Publication
 
 * **Detecting Vulnerabilities in Symbol-Deprived Embedded Systems with Data Flow Analysis** — 2025
-  *Journal of The Korea Institute of Information Security and Cryptology*, 35(2), 287–298
-  [DOI: 10.13089/JKIISC.2025.35.2.287](https://doi.org/10.13089/JKIISC.2025.35.2.287)
+  *Journal of The Korea Institute of Information Security and Cryptology*, 35(2), 287–298, 2025. DOI: 10.13089/JKIISC.2025.35.2.28
 
 ## Talks
 
