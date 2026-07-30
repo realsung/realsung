@@ -61,5 +61,3 @@
 * **Exploiting the Unexpected: A Pwn2Own-Level Break of a Printer** — DEF CON Singapore, Apr. 2026
 * **Pwn2Own, from Preparation to the Scene** — POC Security Hacking Camp, Feb. 2026
 * **Surviving Day to Day on DeFi Bug Bounty** — POC Security Hacking Camp, Aug. 2025
-
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Frealsung?color=blue&label=hits&size=small)](https://myhits.vercel.app)
