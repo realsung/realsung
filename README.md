@@ -12,14 +12,6 @@
 ## Education
 
 * **M.S., Graduate School of Computing - Information Security, KAIST Hacking Lab(Advisor Insu Yun)** — Sep. 2026-Present
-* **B.S., Software Engineering, Soongsil University(Advisor Haehyun Cho, Hyojin Cho)** — Mar. 2021–Aug. 2026
-* **KITRI Best of the Best 9th, Vulnerability Analysis Track** — Jul. 2020–Mar. 2021
-* **Information Security, Sunrin Internet High School** — Mar. 2018–Feb. 2021
-
-## Experience
-
-* **Security Researcher, PetoWorks** — Feb. 2025–Aug. 2026
-* **Security Researcher, STEALIEN Research Project Team** — Jan. 2023–Feb. 2025
 
 ## Highlights
 2026
