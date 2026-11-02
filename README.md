@@ -15,6 +15,7 @@
 
 ## Highlights
 2026
+* **1st**, Chungcheong Bio-health Cybersecurity Competition, Team 선린인터넷고등학교($2,500)
 * **5th**, Hacktheon International University Student Cyber Security Competition, Team sayless($2,500) 
 * **Winner**, TyphoonPWN — LG webOS Unauthenticated RCE($20,000)
 * **4th**, Pwn2Own Automotive Tokyo, Team PetoWorks($62,500)
